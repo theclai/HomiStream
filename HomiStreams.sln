@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomiStreams", "HomiStreams\HomiStreams.csproj", "{9B548E87-B411-48C9-8C93-0B1D9B53B36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomiStreams.XunitTest", "HomiStreams.XunitTest\HomiStreams.XunitTest.csproj", "{BA22ACEA-4204-40C4-9D0E-D05E1220ED11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B548E87-B411-48C9-8C93-0B1D9B53B36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B548E87-B411-48C9-8C93-0B1D9B53B36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B548E87-B411-48C9-8C93-0B1D9B53B36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B548E87-B411-48C9-8C93-0B1D9B53B36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA22ACEA-4204-40C4-9D0E-D05E1220ED11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA22ACEA-4204-40C4-9D0E-D05E1220ED11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA22ACEA-4204-40C4-9D0E-D05E1220ED11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA22ACEA-4204-40C4-9D0E-D05E1220ED11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
